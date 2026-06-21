@@ -1,2 +1,14 @@
 # bsportsstats-resource
-HTML page archive and documentation
+
+静态页面发布集合
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
